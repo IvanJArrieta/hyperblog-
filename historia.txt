@@ -1,5 +1,16 @@
-	ESTA ES LA HISTORIA 
+ESTA ES LA HISTORIA 
+
 como va a ser posible que sucedan todan esas cosas 
+<<<<<<< HEAD
 tengo 23 años 
 m
 Main en rama 
+=======
+escrito para master
+
+MASTER 1
+master 2
+
+experimento 1
+tengo 23 años 
+>>>>>>> a6013c1 (modificacion en rama new)
